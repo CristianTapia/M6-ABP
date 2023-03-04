@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "m6-abp",
+  "description": "M6-ABP",
+  "version": "1.0.0",
+  "main": "ABP_1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
